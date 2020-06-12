@@ -1,0 +1,14 @@
+{
+  "name": "bitcoin-price-on-date",
+  "version": "1.0.0",
+  "description": "simple node.js website that returns the price of bitcoin on a particular date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin"
+  ],
+  "author": "Shane Barnett",
+  "license": "MIT"
+}
